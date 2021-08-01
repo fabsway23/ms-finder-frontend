@@ -2,6 +2,7 @@ import React from 'react'
 import MainLogo from "./components/MainLogo.component"
 import styled from 'styled-components'
 import { colors } from '../../infrastructure/theme';
+import QuestionBox from './components/QuestionBox';
 const MainDiv=styled.div`
 display: flex;
 align-items: center;
@@ -29,6 +30,7 @@ function Home() {
             <Caption>
             Find answers to the hardest questions.
             </Caption>
+            <QuestionBox/>
         </MainDiv>
     )
 }
