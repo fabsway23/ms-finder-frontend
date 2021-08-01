@@ -11,11 +11,11 @@ export const colors = {
     success: "#07CA68",
   },
   bg: {
-    primary: "#FFFFFF",
+    primary: "#E8F3FD",
     secondary: "#F6F6F9",
   },
   text: {
-    primary: "#002412",
+    primary: "#06223C",
     secondary: "rgba(150, 100, 7, 0.74)",
     tertiary: "#00AB55",
     quartenary: "#FFB703",

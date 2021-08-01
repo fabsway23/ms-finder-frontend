@@ -2,4 +2,4 @@ interface DabbaProps {
   text: string;
 }
 
-export default DabbaProps;
+export default DabbaProps
